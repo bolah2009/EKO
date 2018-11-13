@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">EKO Tour Guide</string>
+
+
+    <!-- Category Tabs : Subject -->
+    <string name="eko">Eko</string>
+    <string name="hotels">Hotel</string>
+    <string name="mall">Museum</string>
+    <string name="museum">Mall</string>
+
+        <!-- Category Eko : Subject -->
+        <string name="eko_main">Eko - Lagos</string>
+        <string name="eko_hotels">Lagos Hotel</string>
+        <string name="eko_mall">Lagos Museum</string>
+        <string name="eko_museum">Lagos Mall</string>
+
+
+        <!-- Category Eko : Body -->
+    <string name="eko_main_b">Eko - Lagos</string>
+    <string name="eko_hotels_b">Lagos Hotel</string>
+    <string name="eko_mall_b">Lagos Museum</string>
+    <string name="eko_museum_b">Lagos Mall</string>
+
+
+
+
+    <!-- Category Mall : Subject -->
+    <string name="mall_adeniran_ogunsanya">Eko - Lagos</string>
+    <string name="mall_ikeja_city">Lagos Hotel</string>
+    <string name="mall_maryland">Lagos Museum</string>
+    <string name="mall_novare">Lagos Mall</string>
+    <string name="mall_palms">Lagos Hotel</string>
+    <string name="mall_silverbird_galleria">Lagos Museum</string>
+    <string name="mall_tejuosho">Lagos Mall</string>
+
+
+    <!-- Category Mall : Body -->
+    <string name="mall_adeniran_ogunsanya_b">Eko - Lagos</string>
+    <string name="mall_ikeja_city_b">Lagos Hotel</string>
+    <string name="mall_maryland_b">Lagos Museum</string>
+    <string name="mall_novare_b">Lagos Mall</string>
+    <string name="mall_palms_b">Lagos Hotel</string>
+    <string name="mall_silverbird_galleria_b">Lagos Museum</string>
+    <string name="mall_tejuosho_b">Lagos Mall</string>
+
+
+
+
+
+
+
+</resources>
