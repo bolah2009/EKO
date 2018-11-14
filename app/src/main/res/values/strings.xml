@@ -5,48 +5,85 @@
     <!-- Category Tabs : Subject -->
     <string name="eko">Eko</string>
     <string name="hotels">Hotel</string>
-    <string name="mall">Museum</string>
-    <string name="museum">Mall</string>
+    <string name="mall">Mall</string>
+    <string name="museum">Museum</string>
 
-        <!-- Category Eko : Subject -->
-        <string name="eko_main">Eko - Lagos</string>
-        <string name="eko_hotels">Lagos Hotel</string>
-        <string name="eko_mall">Lagos Museum</string>
-        <string name="eko_museum">Lagos Mall</string>
+    <!-- Category Eko : Subject -->
+    <string name="eko_main">Eko - Lagos</string>
+    <string name="eko_hotels">Lagos Hotel</string>
+    <string name="eko_mall">Lagos Mall</string>
+    <string name="eko_museum">Lagos Museum</string>
 
-
-        <!-- Category Eko : Body -->
-    <string name="eko_main_b">Eko - Lagos</string>
-    <string name="eko_hotels_b">Lagos Hotel</string>
-    <string name="eko_mall_b">Lagos Museum</string>
-    <string name="eko_museum_b">Lagos Mall</string>
-
-
-
+    <!-- Category Eko : Body -->
+    <string name="eko_main_b">This is Lagos</string>
+    <string name="eko_hotels_b">Discover hotels in Lagos</string>
+    <string name="eko_mall_b">Top shopping malls in Lagos</string>
+    <string name="eko_museum_b">Museum in Lagos</string>
 
     <!-- Category Mall : Subject -->
-    <string name="mall_adeniran_ogunsanya">Eko - Lagos</string>
-    <string name="mall_ikeja_city">Lagos Hotel</string>
-    <string name="mall_maryland">Lagos Museum</string>
-    <string name="mall_novare">Lagos Mall</string>
-    <string name="mall_palms">Lagos Hotel</string>
-    <string name="mall_silverbird_galleria">Lagos Museum</string>
-    <string name="mall_tejuosho">Lagos Mall</string>
+    <string name="mall_adeniran_ogunsanya">Adeniran Ogunsanya Mall</string>
+    <string name="mall_ikeja_city">Ikeja City Mall</string>
+    <string name="mall_maryland">Maryland Mall</string>
+    <string name="mall_novare">NOVARE MALL SANGOTEDO</string>
+    <string name="mall_palms">Palms Shopping Mall</string>
+    <string name="mall_silverbird_galleria">Silverbird Galleria</string>
+    <string name="mall_tejuosho">Tejuosho Shopping Centre</string>
 
 
     <!-- Category Mall : Body -->
-    <string name="mall_adeniran_ogunsanya_b">Eko - Lagos</string>
-    <string name="mall_ikeja_city_b">Lagos Hotel</string>
-    <string name="mall_maryland_b">Lagos Museum</string>
-    <string name="mall_novare_b">Lagos Mall</string>
-    <string name="mall_palms_b">Lagos Hotel</string>
-    <string name="mall_silverbird_galleria_b">Lagos Museum</string>
-    <string name="mall_tejuosho_b">Lagos Mall</string>
+    <string name="mall_adeniran_ogunsanya_b">\nAddress: 84, Adeniran Ogunsanya Surulere\nOpen Hours: 9:00 am – 9:00pm daily \n\nLocated strategically on Adeniran Ogusanya road, in the heart of Surulere, Leisure Mall is a shopping center in a league of its own. The mall goes by many names; it is officially called Adeniran Ogunsanya Mall, this name has been shortened to AOS Mall. Some also refer to it as Shoprite Mall while others also refer to it as Filmhouse Surulere. No matter what it is called or what you know this mall by, one thing stays constant. This is undisputably the go-to place for a fun time.</string>
+    <string name="mall_ikeja_city_b">\nAddress: 5, Obafemi Awolowo Way, Alausa, Ikeja\nOpen Hours: 9:00 am – 9:00 pm \n\nIkeja City Mall, owned and developed by Broll Property Services, was built in December 2011.  The shopping center comprises of 100 stores with a desirable mix of retailers trading renowned quality brands. You will not only be spoilt for choice of shops and the best meals,  there are also fun centers for kids to play in as well as a cinema for movie lovers.</string>
+    <string name="mall_maryland_b">\nAddress: 350-360, Ikorordu Road, Anthony Village, Lagos, Nigeria.\nOpening Hours: 8 AM – 10 PM \n\nThe Maryland Mall, popularly called the ‘Big Black Box’ due to its outer covering, is a mall which is poised to give you a wholesome shopping experience of international standard. This mall houses over 40 shops, 4 cinema screens, bars, restaurants, a food court as well as a wide parking space. Its strategic location, interior ambience, and exterior outlook are sure to give you a relaxing feel as well as amaze when you visit this Mall. This Mall which sits over a land mass of 7,700sqm is the first mall in Nigeria to have an underground park, and its location also witnesses a traffic flow of not less than 5000 cars hourly.</string>
+    <string name="mall_novare_b">\nAddress: Cardinal Anthony Olubunmi Okogie road Sangotedo, Lagos \n\nWith its modern infrastructure and facilities, the Novare Lekki mall is the biggest shopping mall in Lagos. It is home to a range of international and local tenants who contribute to a unique shopping, dining and entertainment experience for the whole familyAs the primary retail facility for the surrounding community, Novare Lekki strives to provide a complete shopping and entertainment experience. With Shoprite and Game as anchor tenants, as well as Genesis Cinemas, the mall has approximately 100 shops and 1 000 parking bays</string>
+    <string name="mall_palms_b">\nAddress: 1, Bisway Street, Maroko, Lekki, Lagos, Nigeria.\nOpening Hours: Monday – Saturday (9 AM – 8 PM)Sundays &amp; Public Holidays (11:30 PM – 8:00 PM) \n\nFantastic and Fabulous are two words that can be used to describe this one-stop shopping Mall which sits in the heart of Lekki City. It’s a great place to visit if you’re looking to have a total shopping experience in a world class retail outlet. This mall presents you with the convenience and unique experience of retail, leisure, entertainment, movies, game, and health. The goods sold at this Mall are of international standard and the prices of these are affordable. It has about 69 international retail brand stores, a modern six screen cinema, a bowling alley, lounges, restaurants, and bars. Parking your vehicle at this mall comes at no cost. There are other outlets of the Palms Shopping Mall at Ota and Ibadan.</string>
+    <string name="mall_silverbird_galleria_b">\nAddress: Silverbird Galleria 133, Ahmadu Bello Way, Victoria Island, Lagos\nOpen Hours: 10:00 am – 6:00 pm daily \n\nSilverbird Galleria is a popular mall and a go-to hang-out location for people of all ages. The Galleria is a home to the first multiplex cinema screens in Lagos; with five cinema halls. When you walk into the Galleria, you are greeted with beautiful murals on the ceiling and a wide array of retail shops and eateries. Silverbird Galleria is also home to several service providers such as mobile network offices, radio station, TV station, and of course the Silverbird Cinema. Silverbird Galleria is a modern Galleria with entertainment package where you can see the latest movies, live concerts, shows, and stage plays.</string>
+    <string name="mall_tejuosho_b">\nAddress: Tejuosho Shopping Centre, Ojuelegba road, opposite Diamond Bank, Yaba, Lagos \n\nThe Tejuosho Ultra-Modern Shopping Centre with a superimposing structure and well laid out plan spanning across 25,000sqm of land, is the promised one-stop dream commercial location that rightly compliments the Lagos metropolis. The Centre will also provide thousands of jobs for both skilled and unskilled labour.The Centre boasts of over 1,692 shops on four floors, 342 K-Klamps, children’s area, food court, bar/lounge, promotion courts, advertising space, a massive underground parking lot for more than 350 vehicles, 24hr power with standby generators, police/fire station, waste management, and round-the-clock-security. The newly reformed market still retains the spirit of the old market while offering a modern business experience/ambience.</string>
 
 
+    <!-- Category Museum : Subject -->
+    <string name="museum_badagry_heritage">Badagry Heritage Museum </string>
+    <string name="museum_didi">Didi Museum</string>
+    <string name="museum_jaekel">Jaekel House</string>
+    <string name="museum_kalakuta">Kalakuta Republic Museum</string>
+    <string name="museum_mindscapes_children">Mindscapes Children\'s Museum</string>
+    <string name="museum_nigerian_national">Nigerian National Museum</string>
 
 
+    <!-- Category Museum : Body -->
+    <string name="museum_badagry_heritage_b">\nAddress: Marina GRA road, off Lander road, off President Zoglo road, Badagry, Lagos State. \n\nThe Badagry Heritage Museum in Badagry is a one storey building that houses the artifacts, records and culture of the Badagry people. Objects in this museum date back to pre-slave era, slave era and post slave era.</string>
+    <string name="museum_didi_b">\nAddress: 175, Akin Adesola Street, Victoria Island, Lagos. \n\nThe first private non-profit museum in Nigeria opens its doors for you to see Nigeria through its works of paintings, sculpture and bronze statues from different eras. DIDI museum represents the first private effort to coordinate, preserve and exhibit our collective heritage from the North, South, East and West of Nigeria and indeed, from across the whole continent of Africa. The museum represents our struggles, our progress and most importantly, our shared African character.</string>
+    <string name="museum_jaekel_b">\nAddress: 17 Ebutte, Federal Road, Ebute Metta, Lagos. \n\nIt is a railway and Legacy museum archiving images of personalities, places and historical events in pre and post independent Nigeria, from 1940s through 1970s.</string>
+    <string name="museum_kalakuta_b">\nAddress: Gbemisola Street, Ikeja, Lagos. \n\nThe Kalakuta museum is a \'living history\' museum that gives an insight into the life and struggle of the late afrobeat legend Fela Anikulapo Kuti.</string>
+    <string name="museum_mindscapes_children_b">\nAddress: Plot 1A, Block 3, Michael Olawale Cole Drive, Lekki Phase 1, Lagos. \n\nEver looked at your kid stuck in front of the TV and worried they aren\'t having as much social interaction as you will like? Mindscapes is a great place to come to and allow their natural curiosity run wild.</string>
+    <string name="museum_nigerian_national_b">\nAddress: Onikan, Lagos Island \n\nThe Nigerian National Museum is a national museum of Nigeria, located in the city of Lagos. The museum has a notable collection of Nigerian art, including pieces of statuary and carvings and archaeological and ethnographic exhibits</string>
 
+
+    <!-- Category Hotels : Subject -->
+    <string name="hotel_avenue_suites">The Avenue Suites</string>
+    <string name="hotel_de_renaissance">De Renaissance Hotel</string>
+    <string name="hotel_eko">Eko Hotel</string>
+    <string name="hotel_four_points">Four Points by Sheraton</string>
+    <string name="hotel_george">The George</string>
+    <string name="hotel_ibis">Hotel Ibis</string>
+    <string name="hotel_lagos_oriental">Lagos Oriental Hotel</string>
+    <string name="hotel_radisson_blue_nchorage">Radisson Blu Anchorage Hotel</string>
+    <string name="hotel_sheraton">Sheraton Lagos Hotel</string>
+    <string name="hotel_southern_sun">Southern Sun Ikoyi Hotel</string>
+    <string name="hotel_wheatbaker">The Wheatbaker Hotel</string>
+
+
+    <!-- Category Hotels : Body -->
+    <string name="hotel_avenue_suites_b">\nAddress: 34 Awregate Street \n\nThe Avenue Suites is the home of ultimate designer decor, high-quality amenities, excellent personalised service and superior attention to detail.</string>
+    <string name="hotel_de_renaissance_b">\nAddress:  172 Obafemi Awolowo Way, Ikeja \n\nDe Renaissance Hotel is an elegant and glamorous hotel on the mainland. Elegance, glamour, sheer sophistication and exquisite service, are flawlessly combined to embody a truly unique experience at De Renaissance Hotel.</string>
+    <string name="hotel_eko_b">\nAddress: Adetokunbo Ademola Street Lagos \n\nThis is for sure one of the best and most prestigious luxury hotels in Lagos. Eko Hotel is spread over three buildings and has spectacular views of the Atlantic Ocean and the Kuramo Lagoon. Eko Hotel &amp; Suites stands out as a place to stay when in Lagos for business or for recreation.</string>
+    <string name="hotel_four_points_b">\nAddress: Plot 9/10 Block 2 Oniru Chieftaincy Estate, Victoria Island \n\nExperience a hotel and so much more at Four Points by Sheraton Lagos. This luxury hotel is located in Victoria Island, close to a host of international companies within a dynamic business district. It features both modern and executive rooms to create a lasting memory of comfort and luxury.</string>
+    <string name="hotel_george_b">\nAddress: 30 Lugard Road, Ikoyi \n\nThe George provides its guests with exceptional levels of luxury services and a standard expected of a first class hotel. Some of these services are car hire and chauffeur services, Late departure, onsite dentist and doctor, Local and international flower delivery, high-speed wi-fi, Laundry Service, Purchase of artwork, and so many more.</string>
+    <string name="hotel_ibis_b">\nAddress:  Murtala Muhammed Intl Airport Road, Ajao Estate \n\nHotel Ibis located about 5 minutes away from the International Airport. All the rooms and public areas are fully equipped with WiFi internet access. The buffet breakfast is served daily in their restaurant. The snack menu accommodates all sorts of customers round the clock and the bar is open round the clock. Freebies include an airport shuttle. Additional amenities include a fitness centre, an outdoor pool and meeting spaces.</string>
+    <string name="hotel_lagos_oriental_b">\nAddress: 3 Lekki – Epe Express Way, Lagos \n\nLagos Oriental Hotel redefines luxury and class, the hotel delivers its renowned expertise to Lagos hospitality to provide a wholly new and refined Bangalore hotel experience. This hotel gives you an atmosphere inspired by a dynamic modernity blended with exquisite taste.</string>
+    <string name="hotel_radisson_blue_nchorage_b">\nAddress: 1 Ozumba Mbadiwe Avenue, Victoria Island, Lagos \n\n The Radisson Blu Anchorage Hotel is an abode of stylish retreats. This is a magnificent haven of comfort from where you can enjoy all the luxury you can ever think of. This superb hotel features 170 rooms and suites, all styled by Swedish designer Christian Lundwall. Take a culinary journey at Voyage Restaurant, which offers international classics as well as local dishes.</string>
+    <string name="hotel_sheraton_b">\nAddress: 30 Mobolaji Bank Anthony Way, Lagos \n\nSheraton Lagos Hotel is one of the best hotels not just in Lagos but in Nigeria as a whole. Sheraton is the exact place to be! It provides a perfect place to relax and unwind after a long day. With 325 guest rooms and 7 suites furnished with the signature, Sheraton Sweet Sleeper Bed which provides superior comfort makes Sheraton the first go to for top-notch relaxation</string>
+    <string name="hotel_southern_sun_b">\nAddress: 47, Alfred Rewane Road, Ikoyi \n\nSouthern Sun Hotel is equipped with modern facilities and contemporary comfort. This grand hotel offers a variety of luxury rooms. Suites also add Living and Dining areas. Rooms here will provide you with a flat-screen TV, air conditioning, a minibar, a shower, and private bathrooms.</string>
+    <string name="hotel_wheatbaker_b">\nAddress: 4 Onitolo (Lawrence Road), Ikoyi, Lagos \n\nThe Wheatbaker, is an impeccable quintessential hub for business trips, honeymoons or just to unwind. It is one of the best hotels in Nigeria. Accommodation in this hotel is sumptuous, deluxe rooms, fitness and spa facilities, laundry services, outdoor swimming pool and other top-notch facilities. The hotel is nothing less than fantastic and is specialised in luxury to enhance a relaxing. Its exquisite amenities are built to ensure an unparalleled sense of comfort. The hotel offers many unique recreational opportunities such as spa, steam room, sauna, massages and an outdoor pool.</string>
 
 
 </resources>

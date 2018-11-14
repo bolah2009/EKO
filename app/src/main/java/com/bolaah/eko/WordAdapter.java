@@ -59,28 +59,27 @@ public class WordAdapter extends ArrayAdapter<Word> {
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
         // Check if the existing view is being reused, otherwise inflate the view
-        View listItemView = convertView;
-        if (listItemView == null) {
-            listItemView = LayoutInflater.from(getContext()).inflate(
+        if (null == convertView) {
+            convertView = LayoutInflater.from(getContext()).inflate(
                     R.layout.list_item, parent, false);
         }
         // Get the {@link Word} object located at this position in the list
         Word currentWord = getItem(position);
 
         // Find the TextView in the list_item.xml layout with the ID version_name
-        TextView subjectTextView = (TextView) listItemView.findViewById(R.id.subject_text_view);
+        TextView subjectTextView = convertView.findViewById(R.id.subject_text_view);
         // Get the version name from the current AndroidFlavor object and
         // set this text on the name TextView
         subjectTextView.setText(currentWord.getSubject());
 
         // Find the TextView in the list_item.xml layout with the ID version_number
-        TextView bodyTextView = (TextView) listItemView.findViewById(R.id.body_text_view);
+        TextView bodyTextView = convertView.findViewById(R.id.body_text_view);
         // Get the version number from the current AndroidFlavor object and
         // set this text on the number TextView
         bodyTextView.setText(currentWord.getBody());
 
         // Find the ImageView in the list_item.xml layout with the ID list_item_icon
-        ImageView imageView = (ImageView) listItemView.findViewById(R.id.image_view);
+        ImageView imageView = convertView.findViewById(R.id.image_view);
 
         if (currentWord.hasImage()) {
             // Get the image resource ID from the current AndroidFlavor object and
@@ -91,7 +90,7 @@ public class WordAdapter extends ArrayAdapter<Word> {
             imageView.setVisibility(View.GONE);
         }
 
-        View textColor = listItemView.findViewById(R.id.list_container);
+        View textColor = convertView.findViewById(R.id.card_view);
 
         // Set the theme color for the list item
         int color = ContextCompat.getColor(getContext(), mColorResourceId);
@@ -101,7 +100,7 @@ public class WordAdapter extends ArrayAdapter<Word> {
 
         // Return the whole list item layout (containing 2 TextViews and an ImageView)
         // so that it can be shown in the ListView
-        return listItemView;
+        return convertView;
     }
 
 }
