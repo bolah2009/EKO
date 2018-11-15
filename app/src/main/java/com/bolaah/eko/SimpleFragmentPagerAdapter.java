@@ -9,16 +9,24 @@ import android.support.v4.app.FragmentPagerAdapter;
 /**
  * Provides the appropriate {@link Fragment} for a view pager.
  */
+
+
 public class SimpleFragmentPagerAdapter extends FragmentPagerAdapter {
 
-    final int PAGE_COUNT = 4;
-    private String tabTitles[] = new String[] { "EKO", "Mall", "Hotels", "Museum" };
-    private Context context;
 
-    public SimpleFragmentPagerAdapter(FragmentManager fm) {
+    final int PAGE_COUNT = 4;
+
+    android.content.res.Resources  r;
+
+    private String[] tabTitles;
+private Context context;
+
+    public SimpleFragmentPagerAdapter(FragmentManager fm, android.content.res.Resources  r) {
         super(fm);
         this.context = context;
-    }
+        tabTitles = new String[] { r.getString(R.string.eko), r.getString(R.string.mall), r.getString(R.string.hotels), r.getString(R.string.museum) };
+
+            }
 
     @Override
     public Fragment getItem(int position) {

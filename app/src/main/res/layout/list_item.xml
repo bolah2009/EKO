@@ -14,7 +14,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_gravity="center"
-        android:layout_margin="@dimen/card_radius"
+        android:layout_margin="@dimen/card_margin"
         card_view:cardCornerRadius="@dimen/card_radius">
 
         <LinearLayout
