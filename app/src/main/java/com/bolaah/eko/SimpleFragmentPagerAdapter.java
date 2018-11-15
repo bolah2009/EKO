@@ -16,8 +16,6 @@ public class SimpleFragmentPagerAdapter extends FragmentPagerAdapter {
 
     final int PAGE_COUNT = 4;
 
-    android.content.res.Resources  r;
-
     private String[] tabTitles;
 private Context context;
 
